@@ -1,1 +1,1 @@
-# SmartContactWRC
+# SmartContractWRC
